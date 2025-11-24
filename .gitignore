@@ -1,0 +1,12 @@
+# Unreal Engine mappák (ezek NEM kellenek a netre)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
